@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1 ,Tsports
+http://tv.netscopebd.com:8080/live/sports/index.m3u8
+
+#EXTINF:-1 ,Chennel I
+http://tv.netscopebd.com:8080/live/channel-i/index.m3u8
+
+#EXTINF:-1 ,BanglaVision
+http://tv.netscopebd.com:8080/banglavision/index.m3u8
+
+#EXTINF:-1 ,JamunaTV
+http://tv.netscopebd.com:8080/live/jamunatv/index.m3u8
+
+#EXTINF:-1 ,EdukhayETV
+http://tv.netscopebd.com:8080/live/ekushay/index.m3u8
+
+#EXTINF:-1 ,EkattorTV
+http://tv.netscopebd.com:8080/ekattor/index.m3u8
+
+#EXTINF:-1 ,Channel24
+http://tv.netscopebd.com:8080/channel24/index.m3u8
+
+#EXTINF:-1 ,Deepto
+http://tv.netscopebd.com:8080/deepto/index.m3u8
+
+#EXTINF:-1 ,NTV
+http://tv.netscopebd.com:8080/ntv/index.m3u8
+
+#EXTINF:-1 ,Maasranga
+http://tv.netscopebd.com:8080/maasranga/index.m3u8
+
+#EXTINF:-1 ,Channel 1
+http://tv.netscopebd.com:8080/channel1/index.m3u8
+
+#EXTINF:-1 ,Independent
+http://tv.netscopebd.com:8080/independent/index.m3u8
+
+#EXTINF:-1 ,ATN News
+http://tv.netscopebd.com:8080/atn-news/index.m3u8
+
+#EXTINF:-1 ,News24
+http://tv.netscopebd.com:8080/news24/index.m3u8
+
+#EXTINF:-1 ,BTV
+http://tv.netscopebd.com:8080/btv/index.m3u8
+
+#EXTINF:-1 ,Star News
+http://tv.netscopebd.com:8080/starnews/index.m3u8
+
+#EXTINF:-1 ,DBC News
+http://tv.netscopebd.com:8080/dbcnews/index.m3u8
+
+#EXTINF:-1 ,Channel 9
+http://tv.netscopebd.com:8080/channel9/index.m3u8
