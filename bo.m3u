@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/live.png" group-title="Sports",Unite8 Sports
+http://50.50.50.50:8088/101/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Tsports.png" group-title="Sports",Tsports
+http://50.50.50.50:8088/102/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/GTV.png" group-title="Sports",GTV
+http://50.50.50.50:8088/106/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Star-sports1.png" group-title="Sports",Star Sports1
+http://50.50.50.50:8088/110/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Star-sports2.png" group-title="Sports",Star Sports2
+http://50.50.50.50:8088/115/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Sony-Ten1.png" group-title="Sports",Sony Ten1
+http://50.50.50.50:8088/119/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Sony-Ten2.png" group-title="Sports",Sony Ten2
+http://50.50.50.50:8088/120/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Sony-Ten3.png" group-title="Sports",Sony Ten3
+http://50.50.50.50:8088/121/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Star-Sports-Select1.png" group-title="Sports",Star Sports Select1
+http://50.50.50.50:8088/123/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Star-Sports-Select2.png" group-title="Sports",Star Sports Select2
+http://50.50.50.50:8088/124/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Asports.png" group-title="Sports",Asports
+http://50.50.50.50:8088/127/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/PTV.JPG" group-title="Sports",PTV
+http://50.50.50.50:8088/128/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Zee-Bangla.png" group-title="Bangla",Zee Bangla
+http://50.50.50.50:8088/301/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Star-Jalsha.png" group-title="Bangla",Star Jalsha
+http://50.50.50.50:8088/302/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Jalsha-Movies.png" group-title="Bangla",Star Movies
+http://50.50.50.50:8088/303/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Colors-Bangla.png" group-title="Bangla",Colors Bangla
+http://50.50.50.50:8088/304/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Sony-Aath.png" group-title="Bangla",Sony Aath
+http://50.50.50.50:8088/306/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ekattorbd.com/contents/themes/public/style/images/logo-footer.png" group-title="Bangla",Ekattor.tv
+http://50.50.50.50:8088/201/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/atnbangla.png" group-title="Bangla",Atn Bangla
+http://50.50.50.50:8088/202/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/atnnews.png" group-title="Bangla",Atn News
+http://50.50.50.50:8088/203/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Dbc.png" group-title="Bangla",DBC News
+http://50.50.50.50:8088/204/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/SomoyTV1689411430.png" group-title="Bangla",SomoyTV
+http://50.50.50.50:8088/205/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Masranga.png" group-title="Bangla",Masranga
+http://50.50.50.50:8088/206/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/ChannelI.png" group-title="Bangla",ChannelI
+http://50.50.50.50:8088/207/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Jamunatv.png" group-title="Bangla",Jamunatv
+http://50.50.50.50:8088/209/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Star-plus.png" group-title="Hindi",Star Plus
+http://50.50.50.50:8088/401/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Star-Gold.png" group-title="Hindi",Star Gold
+http://50.50.50.50:8088/402/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Sony%20Entertainment.png" group-title="Hindi",Sony Entertainment
+http://50.50.50.50:8088/403/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Colors-Hindi.png" group-title="Hindi",Colors Hindi
+http://50.50.50.50:8088/405/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Zee-Cinema.png" group-title="Hindi",Zee Cinema
+http://50.50.50.50:8088/406/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%26pictures.png" group-title="Hindi",&Pictures
+http://50.50.50.50:8088/407/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Star-Movie.png" group-title="English",Star Movie
+http://50.50.50.50:8088/501/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/sony-Pix.png" group-title="English",Sony Pix
+http://50.50.50.50:8088/503/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/Discovery.png" group-title="English",Discovery
+http://50.50.50.50:8088/801/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/National%20Geography.png" group-title="English",National Geography
+http://50.50.50.50:8088/802/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://50.50.50.50:8090/assets/images/NICK.JPG" group-title="Others",NICK
+http://50.50.50.50:8088/601/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ideas/images/6/62/Discovery_kids_logo.png" group-title="Others",Discovery jr
+http://50.50.50.50:8088/602/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/9X_Jalwa_logo.png" group-title="Others",9X Jalwa
+http://50.50.50.50:8088/703/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Others",9XM
+http://50.50.50.50:8088/704/tracks-v1a1/mono.m3u8
